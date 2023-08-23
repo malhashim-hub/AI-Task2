@@ -10,7 +10,7 @@ map of the environment
 ![Capture2_2](https://github.com/malhashim-hub/AI-Task2/assets/119134365/75b29b37-7e4a-4738-bcb4-8812f02c764f)
 ![Capture2_21](https://github.com/malhashim-hub/AI-Task2/assets/119134365/539371ad-473a-468a-bc8b-d787d5164a46)
 
-test on onther environment 
+test on other environment 
 ![Capture2_31](https://github.com/malhashim-hub/AI-Task2/assets/119134365/ea536fbd-c7bd-4ff4-bf00-012d17581b55)
 ![Capture4_1](https://github.com/malhashim-hub/AI-Task2/assets/119134365/485b384c-8ab3-4456-84b4-919da1983ff8)
 
@@ -23,7 +23,7 @@ demonstration on how the AI agent discovered the surrounding obstructions and wa
 ![CaptureGAZ 2](https://github.com/malhashim-hub/AI-Task2/assets/119134365/3983562e-eb39-4028-9fa4-7c4315ac9687)
 ![CaptureRIZ 2](https://github.com/malhashim-hub/AI-Task2/assets/119134365/d5845d48-f2bf-4f5b-be71-c9498df44015)
 
-finally, the resault
+Finally, the result.
 ![CaptureRIZ FINAL](https://github.com/malhashim-hub/AI-Task2/assets/119134365/d281c0f2-62fb-4db9-a7e3-c0af127aeb3c)
 ![CaptureGAZ FINAL](https://github.com/malhashim-hub/AI-Task2/assets/119134365/1b556ff3-0c2a-411f-8c41-dd3573ba9681)
 ![CaptureSAVE](https://github.com/malhashim-hub/AI-Task2/assets/119134365/5050d948-a458-4779-8478-17dcb0b2afd5)
