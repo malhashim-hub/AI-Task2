@@ -2,7 +2,7 @@
 Coop in Smart Method 
 
 the robat model 
-![image](https://github.com/malhashim-hub/AI-Task2/assets/119134365/ffd92fe7-49ac-4b95-944f-e9b8d630b095)
+![Capture2_1](https://github.com/malhashim-hub/AI-Task2/assets/119134365/e3e627dc-37a4-470f-b373-304b02cbe3b1)
 
 map of the enveriment 
 ![Capture2_2](https://github.com/malhashim-hub/AI-Task2/assets/119134365/75b29b37-7e4a-4738-bcb4-8812f02c764f)
