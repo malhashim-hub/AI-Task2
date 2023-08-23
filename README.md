@@ -1,7 +1,9 @@
 # AI-Task2
-Coop in Smart Method 
+Coop in Smart Method demonstrates how an AI agent recognizes environments and their paths using simultaneous localization and mapping (SLAM).
+This task aims to use Turtlebot3 with the SLAM approach to create and save a map.
 
-the robat model 
+
+the robot model TurtleBot3 Burger
 ![Capture2_1](https://github.com/malhashim-hub/AI-Task2/assets/119134365/e3e627dc-37a4-470f-b373-304b02cbe3b1)
 
 map of the enveriment 
